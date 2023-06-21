@@ -76,12 +76,16 @@ local function RenderConfirmation()
             Iris.Checkbox({"I wish to support the creator."}, {isChecked = SupportTheCreator})
             Iris.SameLine() do
                 if Iris.Button({Loading.value and "Please wait.." or "Continue"}).clicked then
-                    if not Loading.value then
-                        task.spawn(function()
-                            Loading.value = true
-                            CreateTask()
-                            Continue.value = true
-                        end)
+                    if SupportTheCreator.value then
+                        if not Loading.value then
+                            task.spawn(function()
+                                Loading.value = true
+                                CreateTask()
+                                Continue.value = true
+                            end)
+                        end
+                    else
+                        Solved.value = true
                     end
                 end
                 if Iris.Button({"Learn More"}).clicked then
@@ -113,7 +117,7 @@ local function RenderLearnMore()
         Iris.SameLine() do
             Iris.Text({"Use MikeCash yourself!"})
             if Iris.Button({"Copy GitHub Link"}).clicked then
-                setclipboard("https://github.com/x0581/MikeCash/")
+                setclipboard("")
             end
             Iris.End()
         end
