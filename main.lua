@@ -117,7 +117,7 @@ local function RenderLearnMore()
         Iris.SameLine() do
             Iris.Text({"Use MikeCash yourself!"})
             if Iris.Button({"Copy GitHub Link"}).clicked then
-                setclipboard("")
+                setclipboard("https://github.com/x0581/MikeCash")
             end
             Iris.End()
         end
