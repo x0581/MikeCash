@@ -10,5 +10,12 @@ Change the following inside the script:
   * Disabled the Support a Creator dialogue and goes instantly into the task
 * CREATOR_DISCORD_SERVER
   * Discord server of the person who owns the script
+* API_HOST
+  * linkvertise.linkvertise.thisisusedfornothingotherthantohostafewscripts.xyz
+  * s1.wayauth.com
+  * s2.wayauth.com
+  * s3.wayauth.com
+  * s4.wayauth.com
+  * s5.wayauth.com
 
 ![MikeCash Preview](https://i.imgur.com/MKcP8o6.png)
