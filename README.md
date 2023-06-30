@@ -11,7 +11,7 @@ Change the following inside the script:
 * CREATOR_DISCORD_SERVER
   * Discord server of the person who owns the script
 * API_HOST
-  * linkvertise.linkvertise.thisisusedfornothingotherthantohostafewscripts.xyz
+  * linkvertise.thisisusedfornothingotherthantohostafewscripts.xyz
   * s1.wayauth.com
   * s2.wayauth.com
   * s3.wayauth.com
