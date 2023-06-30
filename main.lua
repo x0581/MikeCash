@@ -5,7 +5,7 @@ local LINKVERTISE_ID = 12345
 
 local DONT_RENDER_CONFIRMATION_WINDOW = false
 local CREATOR_DISCORD_SERVER = "https://discord.gg/ccarnEMG95"
-local API_HOST = "linkvertise.thisisusedfornothingotherthantohostafewscripts.xyz"
+local API_HOST = "s1.wayauth.com"
 
 local Solved = Iris.State(false)
 local Continue = Iris.State(DONT_RENDER_CONFIRMATION_WINDOW)
