@@ -1,5 +1,5 @@
-# Mike Cash
-Monetize your Roblox Scripts with linkvertise with a simple gui
+<h1 align="center">Mike Cash</h1>
+<p align="center">Monetize your Roblox Scripts with linkvertise with a simple gui</p>
 
 Change the following inside the script:
 * LINKVERTISE_ID
@@ -11,11 +11,11 @@ Change the following inside the script:
 * CREATOR_DISCORD_SERVER
   * Discord server of the person who owns the script
 * API_HOST
-  * linkvertise.thisisusedfornothingotherthantohostafewscripts.xyz
-  * s1.wayauth.com
-  * s2.wayauth.com
-  * s3.wayauth.com
-  * s4.wayauth.com
-  * s5.wayauth.com
+  * <img alt="Website" src="https://img.shields.io/website?up_message=online&up_color=green&down_message=offline&down_color=red&url=https%3A%2F%2Flinkvertise.thisisusedfornothingotherthantohostafewscripts.xyz%2F&label=linkvertise.thisisusedfornothingotherthantohostafewscripts.xyz">
+  * <img alt="Website" src="https://img.shields.io/website?up_message=online&up_color=green&down_message=offline&down_color=red&url=https%3A%2F%2Fs1.wayauth.com&label=s1.wayauth.com">
+  * <img alt="Website" src="https://img.shields.io/website?up_message=online&up_color=green&down_message=offline&down_color=red&url=https%3A%2F%2Fs2.wayauth.com&label=s2.wayauth.com">
+  * <img alt="Website" src="https://img.shields.io/website?up_message=online&up_color=green&down_message=offline&down_color=red&url=https%3A%2F%2Fs3.wayauth.com&label=s3.wayauth.com">
+  * <img alt="Website" src="https://img.shields.io/website?up_message=online&up_color=green&down_message=offline&down_color=red&url=https%3A%2F%2Fs4.wayauth.com&label=s4.wayauth.com">
+  * <img alt="Website" src="https://img.shields.io/website?up_message=online&up_color=green&down_message=offline&down_color=red&url=https%3A%2F%2Fs5.wayauth.com&label=s5.wayauth.com">
 
 ![MikeCash Preview](https://i.imgur.com/MKcP8o6.png)
