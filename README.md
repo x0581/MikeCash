@@ -1,6 +1,9 @@
 <h1 align="center">Mike Cash</h1>
 <p align="center">Monetize your Roblox Scripts with linkvertise with a simple gui</p>
 
+# :warning: No longer maintained, please switch to the new [ClientAPI](https://github.com/MikeCashOrg/ClientAPI)
+
+
 Change the following inside the script:
 * LINKVERTISE_ID
   * Enable Full Script API at [FullScript TAB](https://publisher.linkvertise.com/dashboard#dynamic)
